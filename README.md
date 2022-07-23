@@ -34,3 +34,6 @@ should be viewed in their intended viewing format (e.g. computer screen, phone, 
 ![full7](example_outputs/full7.jpg)
 ![full18](example_outputs/full18.jpg)
 ![full29](example_outputs/full29.jpg)
+
+## See also
+[https://upscale.wiki/wiki/Model_Database](https://upscale.wiki/wiki/Model_Database)
